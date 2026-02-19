@@ -1,4 +1,3 @@
-# Here is another update by 4607-eng
 # Here is a new update by 4607-eng
 # Shipping Cost Calculator
 
